@@ -6,9 +6,7 @@
 
 ## 📌 Visão Geral do Projeto
 
-Este projeto consiste em uma análise de dados ponta a ponta voltada a auditar, cruzar e diagnosticar o impacto do financiamento de campanha no desempenho das urnas no 1º turno das Eleições Presidenciais de 2022. 
 
-O objetivo principal foi responder se o volume financeiro dita o vencedor e extrair a métrica de **"Custo por Voto"** de cada candidatura, identificando as estratégias de captação de recursos dos líderes e os principais *outliers* de mercado (campanhas ineficientes).
 
 ---
 
