@@ -12,7 +12,12 @@ O objetivo principal foi responder se o volume financeiro dita o vencedor e extr
 
 ---
 
+## 📊 Perguntas de Negócio Respondidas
 
+1. O volume de dinheiro dita o vencedor no cenário presidencial?
+2. Qual foi o "custo de eficiência" (R$ por voto conquistado) de cada candidato?
+3. Qual a principal fonte de financiamento (público vs. privado) dos candidatos que avançaram ao segundo turno?
+4. Existem *outliers* gritantes de investimento que resultaram em baixa conversão de votos?
 
 ---
 
