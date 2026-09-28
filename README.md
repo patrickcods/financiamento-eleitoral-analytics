@@ -4,7 +4,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-Tratamento%20de%20Dados-orange.svg)
 ![Seaborn](https://img.shields.io/badge/Seaborn-Visualização-green.svg)
 
-
+## 📌 Visão Geral do Projeto
 
 Este projeto consiste em uma análise de dados ponta a ponta voltada a auditar, cruzar e diagnosticar o impacto do financiamento de campanha no desempenho das urnas no 1º turno das Eleições Presidenciais de 2022. 
 
